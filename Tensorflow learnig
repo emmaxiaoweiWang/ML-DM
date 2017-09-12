@@ -11,5 +11,8 @@ Computational graph is composed of different nodes. Each node accepts tensors as
 There are differences between placeholder and variables. Variabes can be initialized while placeholder is not. And variables are not initialized 
 until global_variables_initializer is invoked.
 
+So what's the whole point of machine learning in you opinion?
+Well, the whole point of machine leanring is about finding the correct parameters.
 
-
+Getting started with Tensorflow:
+https://www.tensorflow.org/get_started/get_started
