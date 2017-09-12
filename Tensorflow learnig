@@ -1,0 +1,9 @@
+First lesson in Tensorflow
+
+I guess it is beacuse the data unit in this tool is tensor and the algorithm is all about connecting these data together they name it 
+tensor flow. The rank of a tensor can be more than 2. Tensor is just an array.
+
+Today I install it on windows using python's pip3 tool and try some scripts. A constant is also a tensor. You can create a node of a constant.
+Until you create a session object and invoke the run method of session object, you can get the real value the value of the node created before.
+
+
